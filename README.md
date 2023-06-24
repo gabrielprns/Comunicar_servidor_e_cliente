@@ -1,4 +1,5 @@
-# Comunica-o-entre-servidor-e-cliente-
+# Comunicar_servidor_e_cliente
+
 O projeto a seguir tem como objetivo a criação de uma sala de conversa entre um host e um cliente com envio de mensagens e anexos de arquivos.
 
 ## ✨ Tecnologias
